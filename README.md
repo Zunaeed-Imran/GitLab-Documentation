@@ -16,5 +16,5 @@ i will make document how i should added code in GitLab.
 - `npm run format`
 - `npm run lint`
 - `npm run build`
-- 
+- to check branch name `git status`
 
