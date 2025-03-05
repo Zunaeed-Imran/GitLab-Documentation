@@ -25,3 +25,4 @@ i will make document how i should added code in GitLab.
 - Could you please review it again?
 - Resolved comments in.
 - Reviewed and approved.
+- Added query
