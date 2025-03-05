@@ -17,4 +17,10 @@ i will make document how i should added code in GitLab.
 - `npm run lint`
 - `npm run build`
 - to check branch name `git status`
-
+- before give merge request check the source should be develop.
+- after create MR added some command in the lark.
+- Added comments
+- Resolved comments. 
+- Could you please review it again?
+- Resolved comments in.
+- Reviewed and approved.
