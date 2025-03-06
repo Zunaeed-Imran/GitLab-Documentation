@@ -26,3 +26,10 @@ i will make document how i should added code in GitLab.
 - Resolved comments in.
 - Reviewed and approved.
 - Added query
+
+### Delete branch from local PC after MR the branch.
+- to delete from local `ctrl+shift+p`
+- write `delete git branch`
+- and select `Git Delete Branch...`
+- than select the brahch i wan't to delete.
+- than select delete, than it will delete the remote branch.
