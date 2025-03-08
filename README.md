@@ -40,3 +40,7 @@ i will make document how i should added code in GitLab.
 - `git config pull.rebase false`
 - than pull from develop
 - than change synchronize change click.
+
+### REALESTATE PROJECT SEED AUTO ADMIN PASSWORD.
+- Username: `user@example.com`
+- Password: `p@sSw0rd`
