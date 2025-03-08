@@ -35,3 +35,8 @@ i will make document how i should added code in GitLab.
 - and select `Git Delete Branch...`
 - than select the brahch i wan't to delete.
 - than select delete, than it will delete the remote branch.
+
+### If wan't to to pull develop Even not commiting from current branch.
+- `git config pull.rebase false`
+- than pull from develop
+- than change synchronize change click.
