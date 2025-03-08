@@ -46,3 +46,8 @@ i will make document how i should added code in GitLab.
 - Password: `p@sSw0rd`
 - userid: `01j5153eh6m6z13kht7w5e2xd8`
 - contactNumber: `+8801000000000`
+
+
+### Some debuging command.
+- to check error in terminal in docker larevel project.
+- `make laravel-logs`
