@@ -51,3 +51,7 @@ i will make document how i should added code in GitLab.
 ### Some debuging command.
 - to check error in terminal in docker larevel project.
 - `make laravel-logs`
+- to check storage error in terminal.
+- `less +G storage/logs/laravel.log`
+- to quite the terminal
+- `q`
