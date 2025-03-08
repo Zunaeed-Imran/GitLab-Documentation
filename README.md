@@ -44,3 +44,5 @@ i will make document how i should added code in GitLab.
 ### REALESTATE PROJECT SEED AUTO ADMIN PASSWORD.
 - Username: `user@example.com`
 - Password: `p@sSw0rd`
+- userid: `01j5153eh6m6z13kht7w5e2xd8`
+- contactNumber: `+8801000000000`
