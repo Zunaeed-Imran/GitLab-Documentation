@@ -29,6 +29,7 @@ i will make document how i should added code in GitLab.
 - Reviewed and approved.
 - Added query
 - Reviewed and approved API MR 120
+- Reviewed and approved UI MR 243. Here, 192 is issue ID.
 
 ### Delete branch from local PC after MR the branch.
 - to delete from local `ctrl+shift+p`
