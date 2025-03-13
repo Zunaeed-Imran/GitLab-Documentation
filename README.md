@@ -28,6 +28,7 @@ i will make document how i should added code in GitLab.
 - Resolved comments in.
 - Reviewed and approved.
 - Added query
+- Reviewed and approved API MR 120
 
 ### Delete branch from local PC after MR the branch.
 - to delete from local `ctrl+shift+p`
