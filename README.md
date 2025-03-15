@@ -15,9 +15,9 @@ i will make document how i should added code in GitLab.
 - `make shell` in terminal to enter.
 - `npm run format`
 - `npm run lint`
-- out side the shell to run build.
 - `npm run build`
 - for API
+- out side the shell to run build.
 - `docker compose build`
 - to check branch name `git status`
 - before give merge request check the source should be develop.
