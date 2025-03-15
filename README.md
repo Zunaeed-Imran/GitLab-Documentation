@@ -31,6 +31,11 @@ i will make document how i should added code in GitLab.
 - Reviewed and approved API MR 120
 - Reviewed and approved UI MR 243. Here, 192 is issue ID.
 
+### More command before merge FOR ui.
+- `docker compose run --rm real-estate-ui npm run lint`
+- `docker compose run --rm real-estate-ui npm run format`
+- `docker compose run --rm real-estate-ui npm run build`
+
 ### Delete branch from local PC after MR the branch.
 - to delete from local `ctrl+shift+p`
 - write `delete git branch`
