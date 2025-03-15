@@ -9,6 +9,12 @@ i will make document how i should added code in GitLab.
 - `git pull origin develop`
 - to not facing any error.
 
+### For Migrateing when sometimes need.
+- `make shell`
+- `php artisan migrate`
+- exit from shell
+- `make seed`
+
 ### Before MR.
 - branch name set
 - added command.
