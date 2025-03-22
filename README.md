@@ -68,3 +68,9 @@ i will make document how i should added code in GitLab.
 - `less +G storage/logs/laravel.log`
 - to quite the terminal
 - `q`
+
+### Some mroe docker comment.
+- `docker network ls` to see network list.
+- `docker composer stop` to stop docker compose.
+- `docker ps` 
+- `docker container stop ***all containerNametoStop`
