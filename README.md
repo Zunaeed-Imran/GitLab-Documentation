@@ -74,3 +74,7 @@ i will make document how i should added code in GitLab.
 - `docker composer stop` to stop docker compose.
 - `docker ps` 
 - `docker container stop ***all containerNametoStop`
+
+### Data set in school_id table in database
+- `UPDATE users 
+SET school_id = '01jq38nwbs78f45r0gym9pbt4d';`
