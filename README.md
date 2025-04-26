@@ -34,6 +34,7 @@ i will make document how i should added code in GitLab.
 - Resolved comments in.
 - Reviewed and approved.
 - Added query
+- Added queries
 - Reviewed and approved API MR 120
 - Reviewed and approved UI MR 243. Here, 192 is issue ID.
 - 1051-resolve-comments
